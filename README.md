@@ -31,8 +31,7 @@ Setup Instructions
 2. Install dependencies: flutter pub get
 3. Run the app on your preferred device: flutter run -d chrome
 
-
---------------------------------------------------
+---
 Disclaimer: This repository is a learning project.
 Some portions are directly based on official codelabs, tutorials, and workshops provided by Google.
 I do not claim full originality for the base structure but am actively extending and modifying it to build a deeper understanding.
