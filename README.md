@@ -21,16 +21,6 @@ While following the guide, I am also extending the example to improve my underst
 - Firebase project configured
 - Access to Google Cloud's Vertex AI
 
--------------------------------------------------
-Setup Instructions
-
- 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/colorist.git
-   cd colorist
-2. Install dependencies: flutter pub get
-3. Run the app on your preferred device: flutter run -d chrome
-
 ---
 Disclaimer: This repository is a learning project.
 Some portions are directly based on official codelabs, tutorials, and workshops provided by Google.
